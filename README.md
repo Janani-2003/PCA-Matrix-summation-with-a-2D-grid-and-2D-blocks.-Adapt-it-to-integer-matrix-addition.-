@@ -364,6 +364,5 @@ int main(int argc, char **argv)
 ## Output:
 ![image](1.png)
 
-
 ## Result:
 Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
