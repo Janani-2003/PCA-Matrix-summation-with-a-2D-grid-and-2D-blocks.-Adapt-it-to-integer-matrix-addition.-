@@ -362,7 +362,8 @@ int main(int argc, char **argv)
 ```
 
 ## Output:
-![image](1.png)
+![1](https://github.com/Janani-2003/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/94288340/b040667b-01f9-44f1-8be5-5a639ae88a58)
+
 
 ## Result:
 Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
